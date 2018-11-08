@@ -1,5 +1,9 @@
 # 百度人体分割API
 
-下面是用百度API调用得到的效果：
+## 用法
+下面调用百度API并得到分割效果：
+```bash
+$ python demo.py
+```
 
 ![image](https://github.com/foamliu/Baidu-Segmentation-Test/raw/master/img_merged.png)
